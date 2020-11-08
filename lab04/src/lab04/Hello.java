@@ -9,7 +9,6 @@ public class Hello {
 		//Nic Burt
 		//Danny Perez
 		//Jaishil
-		//wtf
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
@@ -22,6 +21,6 @@ public class Hello {
 		System.out.println("219778326 - This line was added by Jaishil Prasad.");
 
 
-}
+	}
 
 }
