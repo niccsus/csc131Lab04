@@ -11,7 +11,6 @@ public class Hello {
 		//Jaishil
 		//ayylmao
 		//Victor Peraza
-		//wtf
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
