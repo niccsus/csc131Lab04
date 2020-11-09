@@ -5,11 +5,6 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Welcome to Git!");
 		System.out.println("yang - This line was added by Dr. Yang.");
-		//Foad Olfat
-		//Nic Burt
-		//Danny Perez
-		//Jaishil Prasad
-		//Victor Peraza
 		System.out.println("SacStateID - This line was added by Marielle McBride.");
 		System.out.println("219457187 - This line was added by Harpreet Padda.");
 		System.out.println("204927701 - This line was added by Nicholas Burt.");
