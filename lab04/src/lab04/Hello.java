@@ -10,8 +10,8 @@ public class Hello {
 		//Danny Perez
 		//Jaishil Prasad
 		//Victor Peraza
-		System.out.println("SacStateID - This line was added by First name Last name.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
+		System.out.println("SacStateID - This line was added by Marielle McBride.");
+		System.out.println("219457187 - This line was added by Harpreet Padda.");
 		System.out.println("204927701 - This line was added by Nicholas Burt.");
 		System.out.println("219969777 - This line was added by Daniel Perez.");
 		System.out.println("301801994 - This line was added by Foad Olfat.");
